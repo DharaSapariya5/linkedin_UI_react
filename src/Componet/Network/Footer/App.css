@@ -1,0 +1,179 @@
+.NetworkFooter {
+    position: absolute;
+    width: 100%;
+    height: 215px;
+    left: 0px;
+    top: 800px;
+    /* background-color: #b2b2b2; */
+    border-top: 2px solid #eee;
+}
+
+.color {
+    background: linear-gradient(180deg, rgba(241, 244, 248, 0.8) 0%, rgba(241, 244, 248, 0) 100%);
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 44.19%;
+}
+
+.logo {
+    align-items: center;
+    flex-direction: row;
+    position: absolute;
+    left: 9.03%;
+    right: 86.74%;
+    top: 13.95%;
+    bottom: 49.3%;
+}
+
+.text {
+    font-weight: bold;
+}
+
+.parttwo {
+    position: absolute;
+    left: 200px;
+    right: 48.26%;
+    top: 35px;
+    bottom: 24.65%;
+    /* margin-left: 260px; */
+}
+
+.maintext {
+    position: absolute;
+    left: 18.06%;
+    right: 77.36%;
+    top: 16.28%;
+    bottom: 78.6%;
+    font-weight: bold;
+}
+
+.maintext1 {
+    position: absolute;
+    left: 56.25%;
+    right: 38.96%;
+    top: 16.28%;
+    bottom: 78.6%;
+    width: 80px;
+    font-weight: bold;
+}
+
+.maintext2 {
+    position: absolute;
+    left: 10.25%;
+    right: 38.96%;
+    top: 16.28%;
+    bottom: 78.6%;
+    width: 80px;
+    font-weight: bold;
+}
+
+
+.about {
+    position: absolute;
+    left: 18.06%;
+    right: 12.57%;
+    top: 76px;
+    bottom: 24.65%;
+    width: 135px;
+}
+
+.about1 {
+    position: absolute;
+    left: 330px;
+    /* right: 60.76%; */
+    top: 76px;
+    bottom: 24.65%;
+}
+
+.about2 {
+    position: absolute;
+    left: 550px;
+    right: 48.26%;
+    top: 76px;
+    bottom: 36.28%;
+    width: 170px;
+
+}
+
+.partthree {
+    position: absolute;
+    left: 56.25%;
+    right: 31.94%;
+    top: 16.28%;
+    bottom: 33.49%;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+}
+
+.btn1 {
+    box-sizing: border-box;
+    width: 170px;
+    height: 32px;
+    position: absolute;
+    text-align: center;
+    align-content: center;
+    flex-direction: row;
+    justify-content: center;
+    display: flex;
+    left: 56.25%;
+    right: 31.94%;
+    top: 69px;
+    bottom: 53.02%;
+
+    background: #0275B1;
+    border: 1px solid #0275B1;
+    border-radius: 4px;
+
+}
+
+.btn2 {
+    box-sizing: border-box;
+    width: 170px;
+    height: 32px;
+    text-align: center;
+    align-content: center;
+    flex-direction: row;
+    justify-content: center;
+    display: flex;
+    position: absolute;
+    left: 56.25%;
+    right: 31.94%;
+    top: 111px;
+    bottom: 33.49%;
+
+    border: 1px solid #0275B1;
+    border-radius: 4px;
+
+}
+
+.partfor {
+    position: absolute;
+    left: 82.22%;
+    right: 9.03%;
+    /* top: 40px; */
+    bottom: 53.02%;
+    width: 270px;
+    height: 66px;
+    top: 16.28%;
+    bottom: 33.49%;
+
+
+}
+
+.last {
+    position: absolute;
+    left: 10.22%;
+    right: 9.03%;
+    top: 100.09%;
+    bottom: 53.02%;
+    width: 250px;
+    height: 32px;
+    background-color: #fff;
+    /* align-items: center;
+    justify-content: center;
+    justify-items: center; */
+    display: flex;
+}

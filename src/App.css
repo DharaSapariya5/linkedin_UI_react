@@ -1,0 +1,100 @@
+.body {
+  margin: 0;
+}
+
+.div-one {
+  border-bottom:0.5px solid #eee;
+  height: 80px;
+  flex-direction: row;
+  display: flex;
+  background-color: white;
+  /* align-items: center; */
+  /* margin-top: -2px; */
+
+}
+
+.img-div {
+  background-color: white;
+  width: 130px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 0px;
+}
+
+.vl {
+  border-left: 1px solid #eee;
+}
+.v2{
+  border-left: 1px solid #eee;
+  margin-left: 30px;
+}
+.icon-tab {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  width: 90px;
+  margin-left: 30px;
+  text-align: center;
+}
+
+.icon-tab:active{
+  border-bottom: 2px solid #0275b1;
+}
+
+/* .icon1 {
+  align-items: center;
+  justify-content: center;
+} */
+
+.icon-name {
+  font-weight: bold;
+  text-decoration: none;
+  color: #000;
+}
+
+ .icon-name:active {
+  font-weight: bold;
+  color: #0275B1;
+} 
+
+.icon-tab2 {
+  align-items: center;
+  display: flex;
+  width: 370px;
+  margin-left: 30px;
+  flex-direction: row;
+  /* background-color: #eee; */
+  /* border: 0px, 0px, 0px, 0px; */
+  /* border-color: #F4F4F4; */
+}
+
+.img {
+  margin-left: 10px;
+}
+
+.serch-div {
+  margin-left: 10px;
+  color: #b2b2b2;
+}
+.maim-text{
+  flex-direction: row;
+  display: flex;
+  align-content: center;
+}
+.textone{
+  font-weight:bold;
+  font-size: .8pc;
+}
+.texttwo{
+  font-weight:bold;
+  font-size: .8pc;
+  color: #b2b2b2;
+}
+.icon-tab-last{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  text-align: center;
+}

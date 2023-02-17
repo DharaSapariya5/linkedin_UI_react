@@ -1,0 +1,401 @@
+.SideBar {
+    position: absolute;
+    width: 290px;
+    height: 1165px;
+    left: 1150px;
+    top: 120px;
+    /* background-color: #b2b2b2;
+    border: 1px solid #eee; */
+}
+
+.post1 {
+    position: absolute;
+    width: 290px;
+    height: 350px;
+    left: 0px;
+    top: 0px;
+    border: 1px solid #eee;
+    background: #FFFFFF;
+}
+
+.side1 {
+    position: absolute;
+    width: 290px;
+    height: 120px;
+    left: 0px;
+    top: 0px;
+    background-color: #fff;
+}
+
+.sidprofile {
+    position: absolute;
+    width: 170px;
+    height: 170px;
+    left: 60px;
+    top: 40px;
+    display: flex;
+    text-align: center;
+    border: 10px solid #FFFFFF;
+    border-radius: 100px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLQUXqMrzrmkxd3QpxGL5bzgxELsztrL1AgQ&usqp=CAU");
+}
+
+.sidheader {
+    position: absolute;
+    width: 200px;
+    height: 12.5px;
+    left: 85px;
+    top: 205px;
+    font-weight: bold;
+    color: #181818;
+}
+
+.sidebody {
+    position: absolute;
+    width: 270px;
+    height: 39.61px;
+    left: 10px;
+    top: 240px;
+    text-align: center;
+    color: #181818;
+}
+
+.sidebtn {
+    position: absolute;
+    width: 290px;
+    height: 75px;
+    left: 0px;
+    top: 370px;
+    background-color: #FFFFFF;
+    border: 1px solid #eee;
+}
+
+.sidebtnnew {
+    position: absolute;
+    width: 230px;
+    height: 32px;
+    left: 30px;
+    top: 22px;
+    background: linear-gradient(180deg, #0077B5 0%, #0E6795 100%);
+}
+
+.sidebtnnewtext {
+    position: absolute;
+    width: 200px;
+    height: 8.69px;
+    left: 45px;
+    top: 3.50px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.sidepart3 {
+    position: absolute;
+    width: 290px;
+    height: 400px;
+    left: 0px;
+    top: 465px;
+    border: 1px solid #eee;
+    background: #FCFDFD;
+}
+
+.part3header {
+    position: absolute;
+    width: 100px;
+    height: 8.69px;
+    left: 20px;
+    top: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #181818;
+}
+
+.part3rightheader {
+    position: absolute;
+    width: 100px;
+    height: 8.64px;
+    left: 200px;
+    top: 15px;
+    font-weight: bold;
+    color: #0275B1;
+    text-transform: uppercase;
+}
+
+.par3line {
+    position: absolute;
+    width: 230px;
+    height: 1px;
+    left: 30px;
+    top: 50px;
+    border: 1px solid #F4F4F4;
+}
+
+.sidepostone {
+    position: absolute;
+    width: 260px;
+    height: 80px;
+    left: 15px;
+    top: 65px;
+    border: 1px solid #eee;
+    background: #FFFFFF;
+}
+
+.sideposttwo {
+    position: absolute;
+    width: 260px;
+    height: 80px;
+    left: 15px;
+    top: 160px;
+    border: 1px solid #eee;
+    background: #FFFFFF;
+}
+
+.sidepostthree {
+    position: absolute;
+    width: 260px;
+    height: 80px;
+    left: 15px;
+    top: 255px;
+    border: 1px solid #eee;
+    background: #FFFFFF;
+}
+
+.postoneimg {
+    position: absolute;
+    width: 52px;
+    height: 52px;
+    left: 10px;
+    top: 13px;
+    border-radius: 30px;
+    background: #2E2E62;
+}
+
+.postonehed {
+    position: absolute;
+    width: 170px;
+    height: 48.22px;
+    left: 70px;
+    top: 15px;
+    font-weight: bold;
+    color: #181818;
+}
+
+.par3lasttext {
+    position: absolute;
+    width: 100.32px;
+    height: 10.27px;
+    left: 20px;
+    top: 360px;
+    font-weight: bold;
+    color: #0275B1;
+}
+
+.hashtag {
+    position: absolute;
+    width: 290px;
+    height: 265px;
+    left: 0px;
+    top: 885px;
+    border: 1px solid #eee;
+    background: #FCFDFD;
+}
+
+.hashtagheader {
+    position: absolute;
+    width: 200px;
+    height: 8.69px;
+    left: 20px;
+    top: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #181818;
+}
+
+.workbtn {
+    position: absolute;
+    width: 64px;
+    height: 32px;
+    left: 20px;
+    top: 70px;
+    text-align: center;
+    background: #E9F0F8;
+}
+
+.businessbtn {
+    position: absolute;
+    width: 84px;
+    height: 32px;
+    left: 90px;
+    top: 70px;
+    text-align: center;
+    background: #E9F0F8;
+}
+
+.hrbtn {
+    position: absolute;
+    width: 84px;
+    height: 32px;
+    left: 180px;
+    top: 70px;
+    text-align: center;
+    background: #E9F0F8;
+}
+
+.userinterfacebtn {
+    position: absolute;
+    width: 110px;
+    height: 32px;
+    left: 20px;
+    top: 110px;
+    text-align: center;
+    background: #E9F0F8;
+}
+
+.digitalbtn {
+    position: absolute;
+    width: 70px;
+    height: 32px;
+    left: 140px;
+    top: 110px;
+    text-align: center;
+    background: #E9F0F8;
+}
+
+.userexpebtn {
+    position: absolute;
+    width: 123px;
+    height: 32px;
+    left: 20px;
+    top: 150px;
+    text-align: center;
+    background: #E9F0F8;
+}
+
+.uxbtn {
+    position: absolute;
+    width: 47px;
+    height: 32px;
+    left: 150px;
+    top: 150px;
+    text-align: center;
+    background: #E9F0F8;
+}
+
+.uibtn {
+    position: absolute;
+    width: 43px;
+    height: 32px;
+    left: 20px;
+    top: 190px;
+    text-align: center;
+    background: #E9F0F8;
+}
+
+.freelancebtn {
+    position: absolute;
+    width: 87px;
+    height: 32px;
+    left: 70px;
+    top: 190px;
+    text-align: center;
+    background: #E9F0F8;
+}
+
+.trending {
+    position: absolute;
+    width: 290px;
+    height: 300px;
+    left: 0px;
+    top: 1170px;
+    border: 1px solid #eee;
+    background: #FCFDFD;
+}
+
+.box {
+    position: absolute;
+    width: 228px;
+    height: 205px;
+    left: 30px;
+    top: 60px;
+    /* background-color: red; */
+
+}
+
+.box1 {
+    position: absolute;
+    width: 230px;
+    height: 65px;
+    left: 0px;
+    top: 10px;
+    border: 1px solid #F4F4F4;
+}
+
+.box2 {
+    position: absolute;
+    width: 230px;
+    height: 60px;
+    left: 0px;
+    top: 85px;
+    border: 1px solid #F4F4F4;
+}
+
+.box3 {
+    position: absolute;
+    width: 230px;
+    height: 60px;
+    left: 0px;
+    top: 155px;
+    border: 1px solid #F4F4F4;
+}
+
+.photoone {
+    position: absolute;
+    width: 80px;
+    height: 60px;
+    left: 10;
+    top: 2px;
+
+    background: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSayDToB1PalLWvIM1c3L3j_CUgyBBiWZKrjz_GYZsosF8-mLRJ");
+    border-radius: 2px;
+}
+
+.box1hed {
+    position: absolute;
+    width: 145x;
+    height: 36px;
+    left: 88px;;
+    top: 6px;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 125%;
+    /* or 18px */
+    color: #181818;
+}
+
+.boxlast {
+    position: absolute;
+    width: 73px;
+    height: 15px;
+    left: 90px;
+    top: 40px;
+    font-size: 11px;
+    line-height: 150%;
+    /* identical to box height, or 15px */
+
+
+    color: #181818;
+}
+
+.lastword {
+    position: absolute;
+    width: 175px;
+    height: 11px;
+    left: 30px;
+    top: 320px;
+    font-size: 12px;
+    line-height: 11px;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-weight: bold;
+    color: #0275B1;
+}

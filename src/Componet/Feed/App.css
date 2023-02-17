@@ -1,0 +1,312 @@
+.feedmain {
+    position: absolute;
+    width: 850px;
+    height: 1753px;
+    left: 130px;
+    top: 120px;
+    /* background-color: #b2b2b2; */
+}
+
+.feedabout {
+    position: absolute;
+    width: 850px;
+    height: 135px;
+    left: calc(69.43% - 850px/2 - 165px);
+    top: 0px;
+    border: 1px solid #eeee;
+    background: #FFFFFF;
+    box-shadow: 0px 20px 60px rgba(241, 244, 248, 0.5);
+}
+
+.feedfilter {
+    position: absolute;
+    width: 850px;
+    height: 14px;
+    left: 0px;
+    top: 170px;
+    /* background-color: red; */
+}
+
+.feedpost {
+    position: absolute;
+    width: 850px;
+    height: 1538px;
+    left: 0px;
+    top: 215px;
+    /* border: 1px solid #eeee; */
+}
+
+.feedsort {
+    position: absolute;
+    width: 145.15px;
+    height: 14px;
+    left: 482.85px;
+    top: 288px;
+}
+
+.feedsorttext {
+    position: absolute;
+    width: 135.98px;
+    height: 8.69px;
+    left: -135px;
+    top: -295px;
+    font-weight: bold;
+    color: #181818;
+}
+
+.feedrightline {
+    position: absolute;
+    width: 300px;
+    height: 1px;
+    left: -460px;
+    top: -284px;
+    /* border-bottom: 2px solid #e7e7e7; */
+    border: 2px solid #eeee;
+
+}
+
+.feedpost1 {
+    position: absolute;
+    width: 850px;
+    height: 285px;
+    left: 0px;
+    top: 0px;
+    border: 1px solid #eee;
+    background: #FFFFFF;
+}
+
+.feedpost2 {
+    position: absolute;
+    width: 850px;
+    height: 532px;
+    left: 0px;
+    top: 310px;
+
+    background: #ffff;
+    border: 1px solid #eeee;
+
+}
+
+.feedpost3 {
+    position: absolute;
+    width: 850px;
+    height: 402px;
+    left: 0px;
+    top: 870px;
+
+    background: #FFFFFF;
+    border: 1px solid #eeee;
+
+}
+
+.feedleftline {
+    position: absolute;
+    width: 300px;
+    height: 1px;
+    left: 45px;
+    top: -284px;
+    border: 2px solid #e7e7e7;
+}
+
+.feedpost4 {
+    position: absolute;
+    width: 850px;
+    height: 259px;
+    left: 0px;
+    top: 1300px;
+    border: 1px solid #eeee;
+    background: #ffff;
+}
+
+.newpost {
+    position: absolute;
+    width: 100px;
+    height: 8.69px;
+    left: 20px;
+    top: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #181818;
+}
+
+.post1line {
+    position: absolute;
+    width: 790px;
+    height: 1px;
+    left: 20px;
+    top: 60px;
+    border: 2px solid #F4F4F4;
+}
+
+.postques {
+    position: absolute;
+    width: 300px;
+    height: 16.07px;
+    left: 20px;
+    top: 80px;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(24, 24, 24, 0.2);
+}
+
+.pinlogo {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: calc(50% - 24px/2 + 64px);
+    top: 85px;
+    opacity: 0.15;
+    /* background-color: red; */
+}
+
+.postbtn {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 75%;
+    top: 83px;
+    border-radius: 4px;
+    background: linear-gradient(180deg, #0077B5 0%, #0E6795 100%);
+}
+
+.feedpost1text {
+    position: absolute;
+    width: 500px;
+    height: 8.93px;
+    left: 15px;
+    top: 14px;
+    color: #181818
+}
+
+.feedpost1line {
+    position: absolute;
+    width: 850px;
+    height: 1px;
+    left: 0px;
+    top: 50px;
+    border: 2px solid #F4F4F4;
+}
+
+.feepost1dot {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 95%;
+    top: 13px;
+}
+
+.profilepost1 {
+    position: absolute;
+    width: 52px;
+    height: 52px;
+    left: 20px;
+    top: 75px;
+    /* background: url(44.jpg); */
+}
+
+.post1header {
+
+    position: absolute;
+    width: 200px;
+    height: 10.39px;
+    left: 100px;
+    top: 85px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #181818;
+}
+
+.post1bodytext {
+    position: absolute;
+    width: 500px;
+    height: 8.9px;
+    left: 100px;
+    top: 110px;
+    color: #181818;
+}
+
+.post1body {
+    position: absolute;
+    width: 764.65px;
+    height: 54.56px;
+    left: 50px;
+    top: 155px;
+    /* background: linear-gradient(180deg, #181818 -9.83%, rgba(24, 24, 24, 0) 108.65%); */
+}
+
+.post1read {
+    position: absolute;
+    width: 100px;
+    height: 8.69px;
+    left: 30px;
+    font-weight: bold;
+    top: 240px;
+    text-decoration: underline;
+    font-size: 18x;
+    color: #0275B1;
+}
+
+.imgmain {
+    position: absolute;
+    width: 790px;
+    height: 300px;
+    left: 35px;
+    top: 200px;
+    background: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRarlpykYNTJ6uRkJ0nj5geHcQl77n52mBXkZiBYb0dtD_EoOfo"), #C4C4C4;
+
+}
+
+.postforpost3 {
+    position: absolute;
+    width: 790px;
+    height: 80px;
+    left: 30px;
+    top: 200px;
+    background-color: #E9F0F8;
+}
+
+.postforpost31 {
+    position: absolute;
+    width: 790px;
+    height: 80px;
+    left: 30px;
+    top: 300px;
+    background-color: #E9F0F8;
+}
+
+.onepost3icon {
+    position: absolute;
+    width: 52px;
+    height: 52px;
+    left: 10px;
+    top: 15px;
+    border-radius: 25px;
+    background: linear-gradient(180deg, #0077B5 0%, #0E6795 100%);
+}
+
+.post3text1 {
+    position: absolute;
+    width: 500px;
+    font-weight: bold;
+    height: 13.44px;
+    left: calc(71% - 258.47px/2 - 352.67px);
+    top: 20px;
+    color: #181818;
+}
+
+.post3text2 {
+    position: absolute;
+    width: 200px;
+    height: 8.4px;
+    left: calc(71% - 75.6px/2 - 444.16px);
+    top: 44px;
+    color: #181818;
+}
+
+.post3lastimg {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: calc(70% - 24px/2 + 188px);
+    top: 35px;
+}

@@ -1,0 +1,491 @@
+.chats {
+    position: absolute;
+    width: 290px;
+    height: 528px;
+    left: calc(50% - 290px/2 - 445px);
+    top: 120px;
+    background-color: #FCFDFD;
+    border-radius: 4px;
+    border: 1px solid #eee;
+}
+
+.chatsmsg {
+    position: absolute;
+    width: 850px;
+    height: 655px;
+    left: calc(50% - 850px/2 + 165px);
+    top: 120px;
+    background-color: #Fdfdfd;
+    border-radius: 4px;
+    border: 1px solid #eee;
+}
+
+.chatbtn {
+    position: absolute;
+    width: 290px;
+    height: 75px;
+    left: calc(50% - 290px/2 - 445px);
+    top: 700px;
+    border: 1px solid #eee;
+    background-color: #FFFFFF;
+    border-radius: 4px;
+}
+
+.chatbtnone {
+    position: absolute;
+    width: 230px;
+    height: 32px;
+    left: 30px;
+    top: 20px;
+    background: linear-gradient(180deg, #0077B5 0%, #0E6795 100%);
+    border-radius: 4px;
+}
+
+.chatsheader {
+    position: absolute;
+    width: 42px;
+    height: 11px;
+    left: 20px;
+    top: 20px;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 11px;
+    text-transform: uppercase;
+    color: #181818;
+}
+
+.chatline {
+    position: absolute;
+    width: 290px;
+    height: 0px;
+    left: 0px;
+    top: 50px;
+    border: 1px solid #F4F4F4;
+}
+
+.chat1box {
+    position: absolute;
+    width: 290px;
+    height: 86px;
+    left: 0px;
+    top: 60px;
+    /* border: 1px solid /* border: 1px solid red;*/
+    ;
+}
+
+.chat2box {
+    position: absolute;
+    width: 290px;
+    height: 86px;
+    left: 0px;
+    top: 155px;
+    /* border: 1px solid /* border: 1px solid red;*/
+    ;
+}
+
+.chat3box {
+    position: absolute;
+    width: 290px;
+    height: 86px;
+    left: 0px;
+    top: 250px;
+    /* border: 1px solid /* border: 1px solid red;*/
+    ;
+}
+
+.chat4box {
+    position: absolute;
+    width: 290px;
+    height: 86px;
+    left: 0px;
+    top: 345px;
+    /* border: 1px solid /* border: 1px solid red;*/
+    ;
+}
+
+.chat5box {
+    position: absolute;
+    width: 290px;
+    height: 86px;
+    left: 0px;
+    top: 440px;
+    /* border: 1px solid /* border: 1px solid red;*/
+    ;
+}
+
+.chat1boxicon {
+    position: absolute;
+    width: 52px;
+    height: 52px;
+    left: 10px;
+    top: 10px;
+    border-radius: 26px;
+}
+
+.chat1boxname {
+    position: absolute;
+    width: 150px;
+    height: 13px;
+    left: 85px;
+    top: 25px;
+    font-size: 14px;
+    line-height: 13px;
+    font-weight: bold;
+    font-size: 15px;
+    color: #181818;
+}
+
+.chat1boxmsg {
+    position: absolute;
+    width: 225px;
+    height: 15px;
+    left: 85px;
+    top: 45px;
+    font-size: 10px;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 150%;
+    color: rgba(24, 24, 24, 0.5);
+}
+
+.chat1boxstatus {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 55px;
+    top: 59px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #02B033 0%, #08A534 100%);
+}
+
+.chat1boxstatus1 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 55px;
+    top: 59px;
+    border-radius: 10px;
+    border: 2.50px solid #02B033;
+    background-color: #fff;
+    /* background: linear-gradient(180deg, #02B033 0%, #08A534 100%); */
+}
+
+.chat1boxline {
+    position: absolute;
+    width: 290px;
+    height: 0px;
+    left: 0px;
+    top: 85px;
+    border: 1px solid #F4F4F4;
+}
+
+.chat1boxstatusline {
+    position: absolute;
+    width: 10px;
+    height: 80px;
+    left: 0px;
+    top: -3px;
+    background: #0275B1;
+}
+
+.chatmsgline {
+    position: absolute;
+    width: 850px;
+    height: 0px;
+    left: 0px;
+    top: 56px;
+    border: 1px solid #F4F4F4;
+}
+
+.chatmsgheader {
+    position: absolute;
+    width: 500px;
+    height: 11px;
+    left: 20px;
+    top: 25px;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 11px;
+    text-transform: uppercase;
+    color: #181818;
+}
+
+.chatsmsglast {
+    position: absolute;
+    width: 179px;
+    height: 11px;
+    left: 170px;
+    top: 25px;
+    font-size: 12px;
+    line-height: 11px;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #181818;
+}
+
+.chatmsgpin {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 673px;
+    top: 18px;
+}
+
+.chatmsgshare {
+    position: absolute;
+    width: 124px;
+    height: 11px;
+    left: 700px;
+    top: 25px;
+    font-size: 12px;
+    line-height: 11px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #181818;
+}
+
+.chatmaincon {
+    position: absolute;
+    width: 850px;
+    height: 521px;
+    left: 0px;
+    top: 55px;
+    background: linear-gradient(359.46deg, #eee 0.51%, #eeee 82.31%, rgba(196, 196, 196, 0) 99.59%);
+}
+
+.chatmsgsend {
+    position: absolute;
+    width: 850px;
+    height: 53px;
+    left: 0px;
+    top: 575px;
+    /* border: 1px solid #eee; */
+}
+
+.msgplac {
+    position: absolute;
+    width: 179px;
+    height: 17px;
+    left: 20px;
+    font-weight: bold;
+    top: 15px;
+    font-size: 18px;
+    line-height: 17px;
+    color: rgba(24, 24, 24, 0.2);
+}
+
+.chatpinlogo {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 69%;
+    top: 10px;
+    opacity: 0.5;
+    /* background-color: red; */
+}
+
+.chatmsgbtn {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 77%;
+    top: 10px;
+    border-radius: 4px;
+    background: linear-gradient(180deg, #0077B5 0%, #0E6795 100%);
+}
+
+.msglastseen {
+    position: absolute;
+    width: 126px;
+    height: 11px;
+    left: 350px;
+    top: 20px;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 11px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #181818;
+    opacity: 0.15;
+}
+
+.chatmsgright {
+    position: absolute;
+    width: 302px;
+    height: 0px;
+    left: 35px;
+    top: 25px;
+    border: 1px solid #F4F4F4;
+
+}
+
+.chatmsgleft {
+    position: absolute;
+    width: 302px;
+    height: 0px;
+    left: 500px;
+    top: 25px;
+    border: 1px solid #f4f4f4;
+
+}
+
+.chatmsgone {
+    position: absolute;
+    width: 476px;
+    height: 46px;
+    left: 20px;
+    text-align: center;
+    top: 50px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 0%;
+    border-bottom-right-radius: 30px;
+    background: #0275B1;
+}
+
+.readmsgicon {
+    position: absolute;
+    width: 17px;
+    height: 12px;
+    left: 15px;
+    top: 90px;
+}
+
+.readmsgtime {
+    position: absolute;
+    width: 41px;
+    height: 15px;
+    left: 40px;
+    top: 100px;
+    font-size: 10px;
+    line-height: 150%;
+    /* identical to box height, or 15px */
+    text-align: right;
+    color: #181818;
+    opacity: 0.6;
+}
+
+.chatmsguserone {
+    position: absolute;
+    width: 311px;
+    height: 46px;
+    left: 470px;
+    top: 150px;
+    text-align: center;
+    background: #fff;
+    border-radius: 4px;
+}
+
+.chatusericon {
+    position: absolute;
+    width: 46px;
+    height: 46px;
+    left: 790px;
+    top: 148px;
+    border-radius: 26px;
+}
+
+.chatmsgusertime {
+    position: absolute;
+    width: 41px;
+    height: 15px;
+    left: 740px;
+    top: 200px;
+    font-size: 10px;
+    line-height: 150%;
+    /* identical to box height, or 15px */
+    text-align: right;
+    color: #181818;
+    opacity: 0.6;
+}
+
+.chatmsgtwo {
+    position: absolute;
+    width: 611px;
+    height: 46px;
+    left: 20px;
+    text-align: center;
+    top: 300px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 0%;
+    border-bottom-right-radius: 30px;
+    background: #0275B1;
+}
+
+
+.readmsgicon2 {
+    position: absolute;
+    width: 17px;
+    height: 12px;
+    left: 0px;
+    top: 40px;
+}
+
+.readmsgtime2 {
+    position: absolute;
+    width: 41px;
+    height: 15px;
+    left: 25px;
+    top: 50px;
+    font-size: 10px;
+    line-height: 150%;
+    /* identical to box height, or 15px */
+    text-align: right;
+    color: #181818;
+    opacity: 0.6;
+}
+
+.chatusericon1 {
+    position: absolute;
+    width: 46px;
+    height: 46px;
+    left: 790px;
+    top: 400px;
+    border-radius: 26px;
+}
+
+.chatmsguserone1 {
+    position: absolute;
+    width: 271px;
+    height: 46px;
+    left: 510px;
+    top: 400px;
+    text-align: center;
+    background: #fff;
+    border-radius: 4px;
+}
+
+.chatmsgusertime1 {
+    position: absolute;
+    width: 41px;
+    height: 15px;
+    left: 730px;
+    top: 520px;
+    font-size: 10px;
+    line-height: 150%;
+    /* identical to box height, or 15px */
+    text-align: right;
+    color: #181818;
+    opacity: 0.6;
+}
+
+.chatmsguserone2 {
+    position: absolute;
+    width: 180px;
+    height: 46px;
+    left: 600px;
+    top: 470px;
+    text-align: center;
+    background: #fff;
+    border-radius: 4px;
+}
+.chatusericon2 {
+    position: absolute;
+    width: 46px;
+    height: 46px;
+    left: 790px;
+    top: 470px;
+    border-radius: 26px;
+}
